@@ -1,0 +1,31 @@
+* {
+    /* border: dashed rgb(0,0,0); */
+    text-align: center;
+}
+body {
+    background-color: rgb(231, 216, 216);
+}
+div {
+    display: flex;
+    padding: 1% 1% 1% 1%;
+    margin-bottom: 1%;
+    justify-content: space-evenly;
+}
+img {
+    display: inline-block;
+    height: 200px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+p {
+    color: rgb(90, 86, 86);
+}
+#blk1 {
+    background-color: rgb(87, 187, 226);
+}
+#blk2 {
+    background-color: rgb(190, 19, 133);
+}
+#blk3 {
+    background-color: rgb(255, 255, 255);
+}
